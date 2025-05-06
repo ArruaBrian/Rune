@@ -24,5 +24,7 @@
 		flex-direction: column;
 		align-items: center;
 		background-color: var(--color-background);
+		position: relative;
+		overflow: hidden;
 	}
 </style>
